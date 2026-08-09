@@ -381,7 +381,7 @@ After completing this project, the following concepts are practically demonstrat
 
 #  Author
 
-**Mant Sherasiya**
+** Smit Patel **
 
 Aspiring Data Scientist
 Python | SQL | Machine Learning | Deep Learning | Power BI
@@ -394,7 +394,7 @@ Python | SQL | Machine Learning | Deep Learning | Power BI
 https://github.com/smitp2705/DL_PR1
 
 **Notebook:**
-
+https://github.com/smitp2705/DL_PR1/blob/main/PR_1_DL.ipynb
 
 ---
 
